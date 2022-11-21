@@ -1,3 +1,5 @@
+LANG = "EN"
+
 def check_antwoord(antwoord):
     return antwoord == 42
 
